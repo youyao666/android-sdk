@@ -14,4 +14,7 @@
 - 使用Android NDK r27d版本的clang编译器
 - 目标架构为ARM64 (aarch64)
 - Android API级别为21
-
+  需要自己去安卓sdk官网下载对应的sdk版本android-ndk-r27d-windows
+  clang编译器也要自己下载
+  作用对人类几乎无用更多是帮助像trae github Copilot lingma cursor这样给了sdk路径确一直报错的内置ai编程的IDE可以快速使用
+  保证全部代码无毒 
